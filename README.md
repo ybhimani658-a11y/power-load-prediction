@@ -103,4 +103,4 @@ Add time-of-day / day-of-week / holiday features, try Random Forest, Gradient Bo
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE).
+Released Under the [MIT License](LICENSE).
