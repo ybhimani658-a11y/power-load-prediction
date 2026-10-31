@@ -1,4 +1,4 @@
-# ⚡ Power Load Prediction using Machine Learning
+ ⚡ Power Load Prediction using Machine Learning
 
 Predicting electrical **power consumption** from electrical and environmental measurements using **Linear Regression** and **Ridge Regression** (scikit-learn).
 
